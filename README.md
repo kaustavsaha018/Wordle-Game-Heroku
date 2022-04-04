@@ -36,10 +36,5 @@ step 4: type the following command "cd [app directory]" <br>
 step 5: type the following command "python3 main.py" <br>
 step 6: type in the action you wish to perform.
 
-# Write Up
-To get a better understanding of why the code is written this way check out my detailed write up:
-
-* https://medium.com/@bellerb/wordle-solver-using-python-3-3c3bccd3b4fb
-
 ## Reference
 * https://github.com/dwyl/english-words
