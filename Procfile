@@ -1,1 +1,2 @@
-web: sh setup.sh && streamlit run --server.port $PORT app.py
+web: python app.py
+worker: python app.py 
