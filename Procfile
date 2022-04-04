@@ -1,2 +1,2 @@
-web: python app.py
-worker: python app.py 
+web: python hello.py
+worker: python hello.py 
